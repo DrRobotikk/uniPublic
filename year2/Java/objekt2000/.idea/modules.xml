@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Demo abstrakt/Demo abstrakt.iml" filepath="$PROJECT_DIR$/Demo abstrakt/Demo abstrakt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo interfaces/Demo interfaces.iml" filepath="$PROJECT_DIR$/Demo interfaces/Demo interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoAvTall1/DemoAvTall1.iml" filepath="$PROJECT_DIR$/DemoAvTall1/DemoAvTall1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Person2.0v/Person2.0v.iml" filepath="$PROJECT_DIR$/Person2.0v/Person2.0v.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StjerneTegning/StjerneTegning.iml" filepath="$PROJECT_DIR$/StjerneTegning/StjerneTegning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/folgMed/folgMed.iml" filepath="$PROJECT_DIR$/folgMed/folgMed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/klasserogsybklasser/klasserogsybklasser.iml" filepath="$PROJECT_DIR$/klasserogsybklasser/klasserogsybklasser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/losningsforslag/losningsforslag.iml" filepath="$PROJECT_DIR$/losningsforslag/losningsforslag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/menydemo/menydemo.iml" filepath="$PROJECT_DIR$/menydemo/menydemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/obj2000_2022/obj2000_2022.iml" filepath="$PROJECT_DIR$/obj2000_2022/obj2000_2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/object/object.iml" filepath="$PROJECT_DIR$/object/object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/objekt2000.iml" filepath="$PROJECT_DIR$/.idea/objekt2000.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oppgave1/oppgave1.iml" filepath="$PROJECT_DIR$/oppgave1/oppgave1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oppgave2.2/oppgave2.2.iml" filepath="$PROJECT_DIR$/oppgave2.2/oppgave2.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oppgave2.2.8/oppgave2.2.8.iml" filepath="$PROJECT_DIR$/oppgave2.2.8/oppgave2.2.8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oppgave2.3/oppgave2.3.iml" filepath="$PROJECT_DIR$/oppgave2.3/oppgave2.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oppgave2.4/oppgave2.4.iml" filepath="$PROJECT_DIR$/oppgave2.4/oppgave2.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oppgaveark1/oppgaveark1.iml" filepath="$PROJECT_DIR$/oppgaveark1/oppgaveark1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/personer/personer.iml" filepath="$PROJECT_DIR$/personer/personer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skuddaar/skuddaar.iml" filepath="$PROJECT_DIR$/skuddaar/skuddaar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unicodevverdier/unicodevverdier.iml" filepath="$PROJECT_DIR$/unicodevverdier/unicodevverdier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vetIkke/vetIkke.iml" filepath="$PROJECT_DIR$/vetIkke/vetIkke.iml" />
+    </modules>
+  </component>
+</project>
