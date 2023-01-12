@@ -1,0 +1,16 @@
+10
+Mariann kennel
+Mariann
+Haukedal
+20
+Lars kennel
+Lars
+Haukedal
+30
+Robin kennel
+Robin
+Tangen
+40
+Caroline kennel
+Caroline
+Nilsen

@@ -1,0 +1,12 @@
+PRG1000
+Grunleggende programering
+SYS1000
+Systemutvikling
+INF1000
+Informasjonssystemer
+WEB1100
+Web utvikling 
+BIO100
+Biologi
+KJEM100
+Kjemi

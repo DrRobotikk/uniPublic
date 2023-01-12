@@ -1,0 +1,7 @@
+sort
+32
+brun
+42
+svart
+53
+rosa

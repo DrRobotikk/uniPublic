@@ -1,0 +1,70 @@
+1000
+Robin
+Tangen
+robin@tangen.no
+16.06.99
+mann
+bachlor IT og IS
+1001
+Maria
+Cata
+maria@cata.no
+22.03.96
+kvinne
+Bachlor IT og IS
+2000
+Pernille
+Elvik
+pernille@elvik.no
+17.04.00
+kvinne
+Bachlor økadm
+2001
+Roman
+Ko
+roman@ko.no
+06.10.92
+mann
+bachlor IT og IS
+1003
+Sandra
+Dybvik
+sandra@dybvik.no
+30.02.01
+kvinne
+Bachlor økadm
+3000
+Didrik
+Sawkins
+didrik@sawkins.no
+14.03.91
+mann
+bachlor IT og IS
+3001
+petter
+parker
+petter@parker.no
+21.05.59
+mann
+bachlor økadm
+4000
+Amanda
+Galgerud
+amanda@galgerud
+24.11.00
+kvinne
+bachlor økadm
+5000
+Martine
+Finne
+martine@finne.no
+03.03.00
+kvinne
+bachlor IT og IS
+6000
+Erik
+Bøhle
+erik@bøhle.no
+05.07.92
+mann
+bachlor IT og IS
